@@ -1,6 +1,6 @@
 job :
     - Title
-    - Locactio
+    - Locaction
     - Job Type
     - Description
     - Published at
